@@ -1,4 +1,4 @@
-# Olá, eu sou Francisco Kauã de Queiroz 👋
+# Olá, eu sou Kauã de Queiroz 👋
 
 ## Sobre mim
 
