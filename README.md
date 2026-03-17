@@ -6,7 +6,7 @@ Sou estudante e entusiasta da área de tecnologia, com foco em desenvolvimento d
 
 ## Qualificações e Conhecimentos
 
-* Desenvolvimento em **JavaScript**, **TypeScript** e **Python**
+* Desenvolvimento em **JavaScript**, **TypeScript**, **Python** e **PHP**
 * Experiência com **Node.js** e integração de APIs
 * Conhecimento em **redes de computadores** (configuração e simulação com Cisco Packet Tracer)
 * Desenvolvimento de **chatbots** e automação de mensagens (WPPConnect)
